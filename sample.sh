@@ -1,1 +1,1 @@
-echo "welcome to school"
+echo "we are in colloge and doing first project"
